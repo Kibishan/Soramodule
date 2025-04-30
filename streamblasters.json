@@ -11,7 +11,7 @@
     "quality": "1080p",
     "baseUrl": "https://www.streamblasters.party",
     "searchBaseUrl": "https://www.streamblasters.party/?s=%s",
-    "scriptUrl": "https://github.com/50n50/sources/raw/refs/heads/main/streamblasters/streamblasters.js",
+    "scriptUrl": "https://raw.githubusercontent.com/Kibishan/Soramodule/refs/heads/main/streamblasters.js",
     "asyncJS": true,
     "type": "movies/shows"
 }
